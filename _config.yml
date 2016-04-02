@@ -1,0 +1,17 @@
+# Site settings
+title: OpenCycleCompass
+email: support@open-cycle-compass.de
+
+description: > # this means to ignore newlines until "baseurl:"
+  OpenCycleCompass Webseite
+baseurl: ""
+url: "https://www.open-cycle-compass.de"
+
+github_username:  ibis-project
+twitter_username: CycleCompass
+
+#pgp_key_file: # TODO
+
+# Build settings
+#markdown: kramdown
+markdown: redcarpet
